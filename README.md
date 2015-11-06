@@ -1,4 +1,4 @@
-# majiq-voila-elife
+# A new view of transcriptome complexity and regulation through the lens of local splicing variations
 Repository to support the reproducibility of the results contained in Vaquero et al. manuscript published in eLife.  
 
 ## Table of Contents
