@@ -1,2 +1,5 @@
 ipython-nbs/.ipynb_checkpoints
+ipython-nbs/*txt
+plots
 data
+data.tar.gz
