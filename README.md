@@ -7,3 +7,9 @@ Repository to support the reproducibility of the results contained in Vaquero et
 [Notebook Fig2D & Fig2 Suppl.2AB: Reproducibility ratio (RR) in biological replicates for MAJIQ (blue) rMATS (green), MISO (red) and Naive Bootstrapping (yellow).](ipython-nbs/figure2D_figure2suppl2AB.ipynb)<br>
 [Notebook Fig2 Suppl.1 C: Interpolated histograms of E[Ψ] reproducibility for MAJIQ & MISO](ipython-nbs/figure2_suppl1C.ipynb)<br>
 [Notebook Fig3: Number and percentage of complex LSVs across different species using annotation files from Emsembl and Refseq](ipython-nbs/figure3.ipynb)<br>
+
+###Data
+The data used to create the figures regarding the performance evaluation can be found here:
+http://paros.pcbi.upenn.edu/collab/elife_vaquero_et_al/data.tar.gz
+
+Please, decompress the tarball in the root repository folder before use it. Enjoy it! 
