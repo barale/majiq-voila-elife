@@ -9,7 +9,7 @@ Repository to support the reproducibility of the results contained in Vaquero et
 [Notebook Fig3: Number and percentage of complex LSVs across different species using annotation files from Emsembl and Refseq](ipython-nbs/figure3.ipynb)<br>
 
 ###Data
-The data used to create the figures regarding the performance evaluation can be found here:
-http://paros.pcbi.upenn.edu/collab/elife_vaquero_et_al/data.tar.gz
+The data used to create the figures regarding the performance evaluation can be found [here](http://paros.pcbi.upenn.edu/collab/elife_vaquero_et_al/data.tar.gz).
+
 
 Please, decompress the tarball in the root repository folder before use it. Enjoy it! 
